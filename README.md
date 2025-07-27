@@ -6,6 +6,7 @@
 - Power BI Desktop
 - DAX (for basic calculations)
 - GitHub
+- Google Drive
 
 ---
 
@@ -21,8 +22,8 @@ The data was cleaned and pre-processed in Python with the following steps:
 - Engineered `distance_km` using the Haversine formula (pickup ↔ dropoff)
 - Exported enhanced dataset as `uber_cleaned_with_distance.csv` for Power BI
 
-📌 Full code in [`assignment1_itbd.ipynb`](./assignment1_itbd.ipynb)
-
+📌 Full code in [`assignment1_itbd.ipynb`](./assignment1_itbd.ipynb) 
+  Can be found in my Google Drive link: [https://drive.google.com/drive/folders/1-OWVawymo7woQKSZK4kj47R1pAJg0Lc9?usp=sharing]
 ---
 
 ## 📊 Dashboard Features (Power BI)
@@ -48,6 +49,8 @@ Interactive dashboard built in Power BI includes:
 
 
 📌 Power BI file: [`uber_analysis.pbix`](./uber_analysis.pbix)
+Can be found in my Google Drive link: [https://drive.google.com/drive/folders/1-OWVawymo7woQKSZK4kj47R1pAJg0Lc9?usp=sharing]
+
 
 ---
 
