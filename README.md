@@ -79,7 +79,8 @@ See the `screenshots/` folder for:
 
 ## 🧠 Author
 
-👩🏽 **Ariella Ampoze Rurebwayire**    
+👩🏽 **Ariella Ampoze Rurebwayire** 
+    **27640**
 AUCA — Introduction to Big Data Analytics  
 
 
