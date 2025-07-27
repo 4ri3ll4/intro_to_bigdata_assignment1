@@ -61,7 +61,7 @@ Interactive dashboard built in Power BI includes:
 ---
 
 ## 📷 Screenshots
-See the `screenshots/` folder for:
+See the screenshots for:
 - Data Cleaning Steps
 - Power BI Visual Development
 - Final Dashboard Layout
