@@ -1,6 +1,14 @@
 
 ---
 
+## 🧠 Author
+
+ **Ariella Ampoze Rurebwayire** 
+    **27640**
+AUCA — Introduction to Big Data Analytics  
+
+---
+
 ## 🔧 Tools & Technologies
 - Python (Pandas, NumPy, datetime)
 - Power BI Desktop
@@ -74,14 +82,6 @@ See the `screenshots/` folder for:
 - 🔗 GitHub Repo Link: *[https://github.com/4ri3ll4/intro_to_bigdata_assignment1]*
 - 📧 Submitted to: **eric.maniraguha@auca.ac.rw**
 - 🗓️ Deadline: July 25, 2025
-
----
-
-## 🧠 Author
-
-👩🏽 **Ariella Ampoze Rurebwayire** 
-    **27640**
-AUCA — Introduction to Big Data Analytics  
 
 
 ---
